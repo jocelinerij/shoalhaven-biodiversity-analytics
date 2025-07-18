@@ -40,16 +40,6 @@ Based on data modeling and ecological analysis, the five recommended species are
 
 ---
 
-## Team Members
-**BioNest Analytics**  
-- Joceline Rijanto  
-- Dhuvaraha Baheerathan  
-- Rohini Manohar  
-- Sean Yeoh  
-- Zhouxing Yang  
-
----
-
 ## License
 This project was completed for academic purposes under the DATA3001 course. All data sources have been credited in the final report.
 
